@@ -11,5 +11,9 @@ p {
 }
 
 span{
-    color: #FF0000;
+    color: yellow
+}
+
+body {
+    background-color: pink
 }
